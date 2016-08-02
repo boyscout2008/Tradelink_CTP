@@ -75,7 +75,7 @@
     </Reference>
     <Reference Include="LibCurlNet, Version=1.3.0.0, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Install\LibCurlNet.dll</HintPath>
+      <HintPath>.\LibCurlNet.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
