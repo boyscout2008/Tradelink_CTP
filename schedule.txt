@@ -1,0 +1,5 @@
+1. Create a basic backtesting framework.
+
+2. Clean the response project, Write and backtesting my strategies.
+
+3. Add other tool projects, like UT, tikConverter and so on.
